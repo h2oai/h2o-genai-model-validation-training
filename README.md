@@ -6,7 +6,7 @@ h2o-mrm
 | Artifact | Version  |
 |----------|----------|
 | h2o-mrm   | [0.3.4](https://github.com/h2oai/h2o-mrm/releases/tag/v0.3.4)   |
-| h2o-eval-studio-client   | ?   |
+| h2o-eval-studio-client   | [1.0.0](https://pypi.org/project/eval-studio-client/)   |
 
 ## Usage
 
