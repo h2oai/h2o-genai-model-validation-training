@@ -13,4 +13,4 @@ h2o-mrm
 1. Go to https://h2oworld.h2o.ai/
 2. Login with assign credentials
 3. Open Jupyter lab
-4. 
+4. Load notebook from `H2O World` folder.
