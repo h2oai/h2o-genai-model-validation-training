@@ -17,7 +17,7 @@
 ## Slides
 
 | Topic | Slides  | Notebooks |
-|----------|----------|
-| Generative AI Model Validation | [./slides/01_genai_model_validation.pdf]   | [./notebooks/h2o_mrm_full.ipynb] and [./notebooks/h2o_mrm_full.ipynb] |
-| Human Calibration   | [./slides/02_human_calibration.pdf]  | [./notebooks/h2o_mrm_full.ipynb] |
-| Summary metrics | [./slides/03_summary_evaluations.pdf] | --- |
+|----------|----------|-------|
+| Generative AI Model Validation | [01_genai_model_validation.pdf](./slides/01_genai_model_validation.pdf)   | [notebooks/h2o_mrm_full.ipynb](notebooks/h2o_mrm_full.ipynb) and [notebooks/eval-studio-walkthrough.ipynb](notebooks/eval-studio-walkthrough.ipynb) |
+| Human Calibration   | [02_human_calibration.pdf](./slides/02_human_calibration.pdf)  | [notebooks/h2o_mrm_full.ipynb](notebooks/h2o_mrm_full.ipynb) |
+| Summary metrics | [03_summary_evaluations.pdf](./slides/03_summary_evaluations.pdf) | --- |
